@@ -10,4 +10,4 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
 
 The ant moves in what appears to be fairly irregular pattern until aroung 10,000 moves when it starts building a 'highway' pattern consisting of 104 repeating moves.
 
-![Langton's Ant](/LangtonsAnt.png)
+![Langtons-Ant](/LangtonsAnt.PNG)
