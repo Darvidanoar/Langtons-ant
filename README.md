@@ -1,4 +1,4 @@
-# Langtons-ant
+# Langton's Ant
 Langton's ant (https://en.wikipedia.org/wiki/Langton%27s_ant)
 
 Langton's ant is a two-dimensional Turing machine with a very simple set of rules but complex emergent behavior.
