@@ -9,3 +9,5 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
     At a black square, turn 90° counter-clockwise, flip the color of the square, move forward one unit
 
 The ant moves in what appears to be fairly irregular pattern until aroung 10,000 moves when it starts building a 'highway' pattern consisting of 104 repeating moves.
+
+![Langton's Ant](/LangtonsAnt.png)
